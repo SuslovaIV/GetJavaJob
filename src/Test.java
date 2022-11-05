@@ -12,9 +12,6 @@ public class Test {
         System.out.println("---Cat---");
         test(cat);
         cat.showName();
-
-
-
     }
     public static void test(Animal animal){
         animal.eat();
