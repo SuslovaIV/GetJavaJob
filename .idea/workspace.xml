@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e6e299e-e4b6-4bc9-88b8-3c270af67200" name="Changes" comment="Commit4">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REDME.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bark.java" afterDir="false" />
+    <list default="true" id="1e6e299e-e4b6-4bc9-88b8-3c270af67200" name="Changes" comment="Commit5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REDME.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Less1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Less1/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -76,6 +70,49 @@
       <option name="presentableId" value="Default" />
       <updated>1667242148464</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit4">
+      <created>1667640123947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667640123947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit4">
+      <created>1667640201432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667640201432</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit4">
+      <created>1667640234433</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667640234433</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit4">
+      <created>1667640272939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667640272939</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit4">
+      <created>1667640303191</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667640303191</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit5">
+      <created>1667653891726</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667653891726</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,7 +120,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -92,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit1" />
     <MESSAGE value="Commit4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit4" />
+    <MESSAGE value="Commit5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit5" />
   </component>
 </project>
