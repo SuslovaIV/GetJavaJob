@@ -5,11 +5,11 @@ public class Test {
         Cat cat = new Cat("Мурзик");
 
         test(animal);
-        System.out.println("---Dog---");
+        System.out.println("----Dog-----");
         dog.showName();
 	    dog.barking();
         test(dog);
-        System.out.println("---Cat---");
+        System.out.println("----Cat----");
         test(cat);
         cat.showName();
     }
